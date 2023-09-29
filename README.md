@@ -1,2 +1,2 @@
-# Torneio-de-Rob-tica
+# Torneio-de-Robótica
 site do Torneio de Robótica
